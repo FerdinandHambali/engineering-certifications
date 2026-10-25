@@ -4,11 +4,6 @@ This repository contains my professional certifications and technical credential
 
 These certifications demonstrate my technical knowledge and ongoing professional development in engineering, CAD, programming, and related disciplines.
 
-## Certifications
-
-| Certification | Issuing Organisation | Credential |
-|---|---|---|
-| Certified SOLIDWORKS Associate (CSWA) | Dassault Systèmes | [View Certificate](CAD-Certifications/CSWA-Certificate.pdf) |
 
 ## Areas of Professional Development
 
@@ -22,6 +17,5 @@ These certifications demonstrate my technical knowledge and ongoing professional
 
 I am a Mechatronics Engineering student at Monash University, with interests in robotics, automation, embedded systems, and mechanical design.
 
-**GitHub:** [FerdinandHambali](https://github.com/FerdinandHambali)
 
 *This repository will be updated as I complete additional professional certifications.*
